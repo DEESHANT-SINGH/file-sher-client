@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0fb1e78.css",
+    "main.js": "/static/js/main.eccf83a6.js",
+    "static/js/787.64e47e7b.chunk.js": "/static/js/787.64e47e7b.chunk.js",
+    "static/media/minlandingpage.png": "/static/media/minlandingpage.4c30621bec31d0a37399.png",
+    "static/media/logo.svg": "/static/media/logo.d261281df7fcae30898ad3aa765dbddd.svg",
+    "static/media/github.svg": "/static/media/github.1ba5dd7b4010b25b70fc258d9045b76c.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.f0f62f6526fb0cdaa5f92bc14e496b96.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.e0a7e64ebe7c91b6cc7835231cfdf93e.svg",
+    "static/media/cross.svg": "/static/media/cross.e6b77d825336ff13fe876ee025b2f1d6.svg",
+    "index.html": "/index.html",
+    "static/media/link.svg": "/static/media/link.33afe78fa56f585f7bdfc08c733b6606.svg",
+    "main.a0fb1e78.css.map": "/static/css/main.a0fb1e78.css.map",
+    "main.eccf83a6.js.map": "/static/js/main.eccf83a6.js.map",
+    "787.64e47e7b.chunk.js.map": "/static/js/787.64e47e7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fb1e78.css",
+    "static/js/main.eccf83a6.js"
+  ]
+}
